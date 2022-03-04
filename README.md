@@ -19,7 +19,7 @@
 
 ### App Walkthough GIF
 
-<img src="https://github.com/acoro013/FlixsterPartTwo/blob/master/FlixsterPartDos.gif" width=250><br>
+<img src="https://github.com/acoro013/FlixsterPartTwo/issues/1" width=250><br>
 
 ### Notes
 Connecting the youtube API to my android app was a little confusing at first but I was able to implement it and understand it correctly
