@@ -1,5 +1,3 @@
-`NOTE` Paste this template at the top of your existing `README.md` file from part 1 of this assignment. (🚫 Remove this paragraph after after checking off completed user stories)
-
 ## Flix Part 2
 
 ### User Stories
@@ -24,8 +22,7 @@
 <img src="https://github.com/acoro013/FlixsterPartTwo/blob/master/FlixsterPartTwo.gif" width=250><br>
 
 ### Notes
-
-Describe any challenges encountered while building the app.
+Connecting the youtube API to my android app was a little confusing at first but I was able to implement it and understand it correctly
 
 ## Open-source libraries used
 - [Android Async HTTP](https://github.com/codepath/CPAsyncHttpClient) - Simple asynchronous HTTP requests with JSON parsing
