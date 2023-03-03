@@ -20,17 +20,6 @@ class MainActivity : AppCompatActivity() {
 
     private lateinit var rvMovies: RecyclerView
 
-    /*
-    1. define a data model class to the data source - DONE, Movie.kt
-    2. add the recyclerview to the layout - DONE in activity.main
-    3. create a custom row layout XML file to visualize the item DONE in item_movie
-    4. Create an adapter and ViewHolder to render the item DONE in MovieAdapter.kt
-    5. bind the adapter to the data source to populate the RecylcerView. rvMovies DONE
-    6. Bind the layout manager to the RecyclerView. line 42
-    Use GLIDE to render images easily. Done in MovieAdapter
-     */
-
-
 
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
